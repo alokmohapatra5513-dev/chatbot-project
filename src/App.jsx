@@ -4,15 +4,6 @@ import { ChatMessage } from './components/ChatMessage';
 import { Chatmessagerender } from './components/Chatmessages';
 import './App.css'
 
-
-
-
-
-
-
-
-
-
 function App() {
   const [Chatmessage, setChatMessage] = useState([
     {
